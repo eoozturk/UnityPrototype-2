@@ -1,14 +1,14 @@
 # Unity Prototype: JumpRun
 
-Character Control: Jump - Click Space Key
+* Character Control: Jump - Click Space Key
 
-Create Obstacles: Spawn Manager
+* Create Obstacles: Spawn Manager
 
-Audio and Effects
+* Audio and Effects
 
-Animation and Particle System
+* Animation and Particle System
 
-Active Background
+* Active Background
  
 Unity Play: https://play.unity.com/mg/other/jumprun-d
 
